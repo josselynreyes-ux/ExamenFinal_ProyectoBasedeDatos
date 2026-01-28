@@ -1,4 +1,3 @@
-http://localhost/tienda_videojuegos/public/login.php
 
 # Proyecto Base de Datos  
 ## Sistema de Gestión de Venta de Videojuegos
@@ -10,6 +9,9 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 La base de datos se integra con un frontend desarrollado en PHP y HTML, el cual se conecta directamente a la base de datos para ejecutar consultas y procedimientos almacenados, demostrando el funcionamiento completo del sistema.
 
 <img width="611" height="211" alt="image" src="https://github.com/user-attachments/assets/e0225c71-4cd0-43b6-8b5b-baf5cf91cd23" />
+
+LINK:
+http://localhost/tienda_videojuegos/public/login.php
 
 
 ## Objetivo del proyecto
